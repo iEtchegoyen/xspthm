@@ -1,0 +1,820 @@
+<div id="main">
+<div class="header">
+    <!-- profile pic; can replace https://assets.tumblr.com/images/default_avatar/pyramid_open_30.png with another image URL if you want to use a different icon -->
+    <img class="hpfp" src="https://assets.tumblr.com/images/default_avatar/pyramid_open_30.png">
+    
+    <!-- header icon -->
+    <!-- ie. the "return to blog" icon -->
+    <a title="return to blog" href="/"><div class="header-icon"></div></a>
+    <div class="header-left"><div class="header-left-cov"></div></div>
+    
+    <div class="header-nav">
+    <!-- header navigation buttons -->
+    <!-- you can edit the titles of the sections below -->
+    <div class="hbtn hbtn-one hbtn-active">   about         </div>
+    <div class="hbtn hbtn-two">               tags          </div>
+    <div class="hbtn hbtn-three">             following     </div>
+    <div class="hbtn hbtn-four">              contact       </div>
+    </div>
+    
+</div><!--header-->
+
+
+<div class="content"><div class="allviews">
+    
+<div class="view"><!-- about me intro panel -------------------------------->
+<div class="abt-layout">
+
+    <div class="abt-basic">
+        <div class="abt-photo"></div>
+        <div class="abt-pts">
+            
+            <!-- the simple intro points below the photo
+                 You can change the labels and what's shared about too. -->
+            
+            <!-- 1: name -->
+            <div class="abt-ptline">
+                <div class="abt-pttitle">name</div>
+                xuethms
+            </div>
+            
+            <!-- 2: location -->
+            <div class="abt-ptline">
+                <div class="abt-pttitle">location</div>
+                singapore
+            </div>
+            
+            <!-- 3: status -->
+            <div class="abt-ptline">
+                <div class="abt-pttitle">status</div>
+                active
+            </div>
+            
+        </div><!--abt-pts-->
+    </div><!--abt-basic-->
+    
+    <div class="abt-bio">
+        <div class="bio-graphy">
+        
+<!-- Replace this text with your own bio --------------------------------->
+        
+<p>Welcome to the preview of <b>Quartz</b>, an about page for tumblr blogs by <a href="https://xuethms.tumblr.com">xuethms</a>. This page is a revamp of  <a href="https://yukoki.tumblr.com/post/92923422512/multi-page-02-suikomu-by-yukoki">suikomu</a>, which is an old about page I coded in 2014. The style and coding is outdated, so I thought I'd release a new version.</p>
+
+<p>If you would like to use this page, please install it via <a href="https://ko-fi.com/s/568753ceb6">my ko-fi</a>. I would appreciate if you could <i>reblog/like</i> the original post too, as well as <i>tip me</i> to continue supporting my work!</p>
+
+<blockquote>
+    By the way, this grey block is a blockquote. You can add quotes or highlight information like this.
+</blockquote>
+
+<h2>Credits</h2>
+
+<ul>
+    <li>Photography by <a href="https://unsplash.com/@ivanyeors">Ivan Yeo</a></li>
+    <li>Icon font by <a href="https://cappuccicons.com/">@suiomi</a></li>
+    <li>Masonry by <a href="https://masonry.desandro.com/">David DeSandro</a></li>
+    <li>Style-my-tooltips jQuery plugin by <a href="https://manos.malihu.gr/style-my-tooltips-jquery-plugin/">malihu</a></li>
+</ul>
+
+<p>Thank you for visiting! <script language="JavaScript">var fhs = document.createElement('script');var fhs_id = "5670209";
+var ref = (''+document.referrer+'');var pn =  window.location;var w_h = window.screen.width + " x " + window.screen.height;
+fhs.src = "//freehostedscripts.net/ocounter.php?site="+fhs_id+"&e1=&e2=&r="+ref+"&wh="+w_h+"&a=1&pn="+pn+"";
+document.head.appendChild(fhs);document.write("<span id='o_"+fhs_id+"'></span>");
+</script> of <script language="JavaScript">var fhsh = document.createElement('script');var fhs_id_h = "3367481";
+fhsh.src = "//freehostedscripts.net/ocount.php?site="+fhs_id_h+"&name=visitors&a=1";
+document.head.appendChild(fhsh);document.write("<span id='h_"+fhs_id_h+"'></span>");
+</script>
+        
+<!-- end of biography space ----------------------------------------------->
+        
+        </div><!--bio-graphy-->
+        
+    </div><!--abt-bio-->
+</div><!--abt-layout-->
+</div><!-- view; intro -->
+    
+
+<div class="view"><!-- tags list panel ------------------------------------->
+    <div class="view-photo tag-photo"></div>
+    <div class="tag-con">
+
+<!--
+
+Each tag blog consists of a CATEGORY and the TAGS. Copy and paste the block below out of the comments for as many tag blocks you would like to add.
+        
+        <div class="tag-block">
+            <div class="tag-category"></div>
+            <a href="/tagged/"><div class="tag-btn">tag</div></a>
+            <a href="/tagged/"><div class="tag-btn">tag</div></a>
+            <a href="/tagged/"><div class="tag-btn">tag</div></a>
+            <a href="/tagged/"><div class="tag-btn">tag</div></a>
+        </div>
+        
+-->
+        
+        <div class="tag-block">
+            <div class="tag-category">tri-commission</div>
+            <a href="/tagged/"><div class="tag-btn">tenryou (kujou clan)</div></a>
+            <a href="/tagged/"><div class="tag-btn">kanjou (hiiragi clan)</div></a>
+            <a href="/tagged/"><div class="tag-btn">yashiro (kamisato clan)</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">regions</div>
+            <a href="/tagged/"><div class="tag-btn">narukami</div></a>
+            <a href="/tagged/"><div class="tag-btn">kannazuka</div></a>
+            <a href="/tagged/"><div class="tag-btn">yashiori</div></a>
+            <a href="/tagged/"><div class="tag-btn">seirai</div></a>
+            <a href="/tagged/"><div class="tag-btn">watatsumi</div></a>
+            <a href="/tagged/"><div class="tag-btn">tsurumi</div></a>
+            <a href="/tagged/"><div class="tag-btn">eukanomiya</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">population</div>
+            <a href="/tagged/"><div class="tag-btn">arataki itto</div></a>
+            <a href="/tagged/"><div class="tag-btn">gorou</div></a>
+            <a href="/tagged/"><div class="tag-btn">kaedehara kazuha</div></a>
+            <a href="/tagged/"><div class="tag-btn">kamisato ayaka</div></a>
+            <a href="/tagged/"><div class="tag-btn">kujou sara</div></a>
+            <a href="/tagged/"><div class="tag-btn">raiden shogun</div></a>
+            <a href="/tagged/"><div class="tag-btn">sangonomiya kokomi</div></a>
+            <a href="/tagged/"><div class="tag-btn">sayu</div></a>
+            <a href="/tagged/"><div class="tag-btn">thoma</div></a>
+            <a href="/tagged/"><div class="tag-btn">yoimiya</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">narukami island</div>
+            <a href="/tagged/"><div class="tag-btn">inazuma city</div></a>
+            <a href="/tagged/"><div class="tag-btn">ritou</div></a>
+            <a href="/tagged/"><div class="tag-btn">konda village</div></a>
+            <a href="/tagged/"><div class="tag-btn">chinju forest</div></a>
+            <a href="/tagged/"><div class="tag-btn">mt. yougou</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">yashiori island</div>
+            <a href="/tagged/"><div class="tag-btn">musoujin gorge</div></a>
+            <a href="/tagged/"><div class="tag-btn">serpent's head</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">kannazuka</div>
+            <a href="/tagged/"><div class="tag-btn">tatarasuna</div></a>
+            <a href="/tagged/"><div class="tag-btn">kujou encampment</div></a>
+            <a href="/tagged/"><div class="tag-btn">nazuchi beach</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">local specialties</div>
+            <a href="/tagged/"><div class="tag-btn">sakura bloom</div></a>
+            <a href="/tagged/"><div class="tag-btn">dendrobium</div></a>
+            <a href="/tagged/"><div class="tag-btn">naku weed</div></a>
+            <a href="/tagged/"><div class="tag-btn">sea ganoderma</div></a>
+            <a href="/tagged/"><div class="tag-btn">onikabuto</div></a>
+            <a href="/tagged/"><div class="tag-btn">crystal marrow</div></a>
+            <a href="/tagged/"><div class="tag-btn">amakumo fruit</div></a>
+            <a href="/tagged/"><div class="tag-btn">sango pearl</div></a>
+            <a href="/tagged/"><div class="tag-btn">fluorescent fungus</div></a>
+        </div><!--tag-block-->
+        
+        <div class="tag-block">
+            <div class="tag-category">landmarks</div>
+            <a href="/tagged/"><div class="tag-btn">tenshukaku</div></a>
+            <a href="/tagged/"><div class="tag-btn">sacred sakura</div></a>
+            <a href="/tagged/"><div class="tag-btn">mikage furnace</div></a>
+            <a href="/tagged/"><div class="tag-btn">komore teahouse</div></a>
+            <a href="/tagged/"><div class="tag-btn">hanamizaka</div></a>
+            <a href="/tagged/"><div class="tag-btn">naganohara fireworks</div></a>
+            <a href="/tagged/"><div class="tag-btn">sangonomiya shrine</div></a>
+        </div><!--tag-block-->
+        
+    </div><!--tag-con-->
+</div><!-- end of tagslist panel -->
+
+
+<div class="view"><!-- following panel -------------------------------->
+    <div class="view-photo fol-photo"></div>
+    
+    <!-- no need to edit anything in the blogroll section -->
+<div class="fol-content">
+    <div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_91f1f2b15eeb_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">theme-rec</div>
+            <div class="fol-info-ti">.ref</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://theme-rec.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/theme-rec" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/d7988923b1f3c23a8639d64949e03d95/3572793ce4b7deb2-7c/s40x40u_c1/0dcd0b6458c9b03b2e71137fb8719791d0040d67.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">theme-hunter</div>
+            <div class="fol-info-ti">Theme Hunter</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://theme-hunter.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/theme-hunter" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/1287a75f3f2df67710275cae01c49fc4/7a41a9a7c5bff0f3-9f/s40x40u_c1/e4a23621f8000d6dc24efd053b40f1a93d9b1471.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">magnusthemes</div>
+            <div class="fol-info-ti">MagnusThemes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://magnusthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/magnusthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_4cb6a081c896_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">color-palettes</div>
+            <div class="fol-info-ti">Color Me Curious</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://www.colourpod.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/color-palettes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/7e08b7395bcf0d3f5eafa64ec36cdc12/807806999a93e016-22/s40x40u_c1/7517d97e4415986017f1d307de387f0d4177004c.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">fukuo</div>
+            <div class="fol-info-ti">FUKUO (Tumblr Development &amp; Web Design)</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://fukuo.site/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/fukuo" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_c39f5beadeea_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">aurthms</div>
+            <div class="fol-info-ti">@eleveates themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://aurthms.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/aurthms" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_b1158d1f7fe5_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">lmthemes</div>
+            <div class="fol-info-ti">lostmemento themes!</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://lmthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/lmthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/709c1a876a59c19e27af79a7b8139c54/b985a3afb1d339f3-58/s40x40u_c1/7ac3d54e27861de42414bfe221ac9faefcdec417.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">taezsthemes</div>
+            <div class="fol-info-ti">themes &amp; resources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://taezsthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/taezsthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_84b3cdf47165_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">shoseii</div>
+            <div class="fol-info-ti">Quiescent</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://shoseii.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/shoseii" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_a14e9a0617ec_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">mistletoe</div>
+            <div class="fol-info-ti">🌙 mistletoe themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://mistletoe.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/mistletoe" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/f8df109d4e2e0a729fb9a02f3f3babc9/65783e6e747b7754-97/s40x40u_c1/198bde6eaaaeb28f7868888ff32cfa6c855f3ba3.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">serendipitythms</div>
+            <div class="fol-info-ti">❪ ♡ ❫&emsp;&mdash;take it slow</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://serendipitythms.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/serendipitythms" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/0f75a7c05b1b12a38e24212b12c3c62c/a85069d4b77e7007-53/s40x40u_c1/c972855681d08a07e69d988fd2319bdcffc6b87b.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">resourceanime</div>
+            <div class="fol-info-ti">anime/manga resources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://resourceanime.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/resourceanime" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_a71874439766_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">aerosources</div>
+            <div class="fol-info-ti">Aerosources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://aerosources.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/aerosources" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_5766c7a243de_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">codingcabin</div>
+            <div class="fol-info-ti">Coding Cabin</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://codingcabin.net/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/codingcabin" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/ab97eec270c12eb7d90fa4472cfd5924/be54a71961636f1d-68/s40x40u_c1/1a752b3d6bc1aa8692ee0ace0d3ac17aab0137a2.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">yeoli-thm</div>
+            <div class="fol-info-ti">Yeoli Themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://yeolithm.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/yeoli-thm" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/2e891497dfb811a82989eefcf178e565/bd46b65b7e6b9a9d-53/s40x40u_c1/45550ce626385ed0be1e8e145c625c81a564d3e1.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">xuetest</div>
+            <div class="fol-info-ti">blades amidst raindrops</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://xuetest.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/xuetest" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_62043ca7c018_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">nyctothemes</div>
+            <div class="fol-info-ti">NYCTOTHEMES</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://nyctothemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/nyctothemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_6e52f8cc86a5_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">enbythemes-moved</div>
+            <div class="fol-info-ti">enby themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://enbythemes-moved.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/enbythemes-moved" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_8dd360444ca0_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">ninpen</div>
+            <div class="fol-info-ti">Ninpen Themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://ninpen.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/ninpen" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/4cb981611bb4b805fa953d3d8b4a04df/d84fbc232a75465a-32/s40x40u_c1/90531cf2ffe8beab9cddcf0f08632ac4697bd996.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">glenthemes</div>
+            <div class="fol-info-ti">glenthemes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://glenthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/glenthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/52263adafb19a0da88b30c7bc8f8a17f/344aef5d1a879427-d4/s40x40u_c1/3ca013bc7840e5d0da6a1dd81d1cd43da4a56b47.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">rachaelthemes</div>
+            <div class="fol-info-ti">Themes by Rachael</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://rachaelthemes.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/rachaelthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_d7b66230491f_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">annasthms</div>
+            <div class="fol-info-ti">annasthms</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://annasthms.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/annasthms" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/ddbdf2884128b9fdd24bdf633d7ac551/48e440d3d70dc044-6a/s40x40u_c1/a6367d8b6d896d56dc2ca7d3ef718b9558f9258e.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">sorrism</div>
+            <div class="fol-info-ti">sorrism themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://sorrism.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/sorrism" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_3b216295e1bd_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">bychloethemes</div>
+            <div class="fol-info-ti">By Chloe Themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://bychloethemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/bychloethemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_baf3bb9b6e9e_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">pathcodes</div>
+            <div class="fol-info-ti">Pathcodes by Pohroro</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://pathcodes.pohroro.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/pathcodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_2d3fcb458a5e_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">shythemes</div>
+            <div class="fol-info-ti">Shy Themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://shythemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/shythemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/815e7353ed9ae1959d6129807e8544e0/769f33458e259a7f-eb/s40x40u_c1/20eb7d96e52c5c1663f4ff8f9a409e07a8b48cc4.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">floralcodes</div>
+            <div class="fol-info-ti">FloralCodes &mdash; Tumblr Themes By Katie</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://www.floralcodes.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/floralcodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/2b9e2cd0e67a6fd924a4e6188671d704/e6e77cb89724f2fd-02/s40x40u_c1/b82da25a44bad3def7e0aeeaf38fc28e45810e54.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">suiomi</div>
+            <div class="fol-info-ti">suiomi</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://suiomi.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/suiomi" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/bd4fbdddae3b43c2fc7e62d3a6936261/a087a76d8b626d0e-07/s40x40u_c1/39d2983a730ae25a412294836b38c4cceb6a048b.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">verteau</div>
+            <div class="fol-info-ti">Verteau themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://verteau.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/verteau" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_1bcc03eb5448_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">borntobewildcodes</div>
+            <div class="fol-info-ti">BORN TO BE WILD CODES</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://borntobewildcodes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/borntobewildcodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/eab2c05268ee495df10ed597895cb489/481ac8d985605025-e2/s40x40u_c1/1609fcb5068df4f1b7054cc8f9cd84f5ef29188d.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">kuzuriha</div>
+            <div class="fol-info-ti">celestite thms</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://kuzuriha.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/kuzuriha" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/6f7f929956bc6c0fe281747bec1a0bcf/ca47e1e516c81f9c-e5/s40x40u_c1/0bc157cf001866867ee928828287d1150a9c5291.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">venusthms</div>
+            <div class="fol-info-ti">Venusthms</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://venusthms.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/venusthms" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/4a1c8bcbfe50e206b30c16c8e5f20fb3/67993117dc89d15d-40/s40x40u_c1/e3dd38cb73fb97806b5abbc158ec96c425f36a37.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">southcodes</div>
+            <div class="fol-info-ti">duscae</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://southcodes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/southcodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://44.media.tumblr.com/759dcc2d7dc30d1f6cbc3c3b7b34c7d6/f8692c521c21ee8e-33/s40x40u_c1_f1/b9085fb5f90bb4ccda5a30e92adce5ab463d9ae0.gif">
+        <div class="fol-info">
+            <div class="fol-info-un">themerolls</div>
+            <div class="fol-info-ti">themerolls</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://themerolls.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/themerolls" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/a9b04f68dfc5f55a8ca3064160be1cf7/44f575b417272f9c-dc/s40x40u_c1/592c1cfdb4f34e11ee605379d9a66c6b7d1a0a0c.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">sheathemes</div>
+            <div class="fol-info-ti">Sheathemes codes and resources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://sheathemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/sheathemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/1be1bd14b54f365dcbe15e7a8a12b4c6/06b0be8540986c24-a5/s40x40u_c1/370937a9fd22de8a32d4599285bf1dc810e9f0f4.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">enbythemes</div>
+            <div class="fol-info-ti">enby themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://enbythemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/enbythemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_09383f2e8ab3_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">seyche</div>
+            <div class="fol-info-ti">seyche themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://seyche.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/seyche" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/c444716da69236f2d3ff77f44ac3042b/8f867dbcc9b4240d-20/s40x40u_c1/ee7a83f70fd5745972cb897cf07e70ef7a559c00.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">kosmique</div>
+            <div class="fol-info-ti">kosmique themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://kosmique.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/kosmique" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_e27f2923758b_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">nonspace</div>
+            <div class="fol-info-ti">nonspace themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://nonspace.dev/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/nonspace" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/97448d3257dda54c94da9345194637ce/31bb0d26b1b498c7-dc/s40x40u_c1/19770ac0481b22f21928bb1e5cda766fe1a31d14.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">starlightthemes</div>
+            <div class="fol-info-ti">themes by wovenstarlight</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://starlightthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/starlightthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/8aedfe42da6fb9edf7e6f728bb4790f5/3e55a07f39b3321e-ba/s40x40u_c1/adb57dd2ec7b22553971967287cebe69b1394a91.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">ricecodes</div>
+            <div class="fol-info-ti">Rice Codes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://ricecodes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/ricecodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/0346b54978498ac388dba4718c071a79/a28ac252308d50ba-64/s40x40u_c1/8c82c0f222026ed0406b04225d6cade1919e8045.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">jeonqs</div>
+            <div class="fol-info-ti">𝒔𝒆𝒎𝒊-𝒉𝒊𝒂𝒕𝒖𝒔 *</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://jeonqs.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/jeonqs" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/9e6c26acee739f20acc80d4800f8487b/696c18ef52e9bde4-e5/s40x40u_c1/7ae495da42a3d3705611b06b28e0105504ec4eff.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">softcodes</div>
+            <div class="fol-info-ti">softcodes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://softcodes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/softcodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_a3b67cd22a50_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">enchantedthemes</div>
+            <div class="fol-info-ti">enchanted themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://enchantedthemes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/enchantedthemes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/2002652413521316a4c3e5a9129e9418/c543c790a34a1411-bc/s40x40u_c1/0248ddc3803724f03eb7c42cea00e43c6b3e4e76.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">solocodes</div>
+            <div class="fol-info-ti">Solo Codes | Free &amp; Premium Themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://solocodes.net/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/solocodes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_63ed1d13b42f_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">eggdesign</div>
+            <div class="fol-info-ti">Free tumblr themes and resources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://egg.design/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/eggdesign" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/e323533a5eb56f25c46fa9992bbdc12c/4a215566a65892cc-e2/s40x40u_c1/f429fac4f75a26242729abb196aaa63e7071f045.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">springdoy</div>
+            <div class="fol-info-ti">* 𝒅𝒓𝒆𝒂𝒎𝒔 𝒄𝒐𝒎𝒆 𝒕𝒓𝒖𝒆.</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://springdoy.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/springdoy" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/33fba7c19c1d6cfcfb3c9c21a29a2222/9c42eadd3920b809-07/s40x40u_c1/9597bb7c96257ced42912ec883f6e78d288b631a.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">soyeonz</div>
+            <div class="fol-info-ti">feel good.</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://soyeonz.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/soyeonz" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/5fc7f906914cd56f6ef805a5cd185c5b/bfb3bc6ebe031af0-d0/s40x40u_c1/f4b2a49da1d3f12191ccac92e97cd5425b6770b5.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">mercurythms</div>
+            <div class="fol-info-ti">mercury themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://mercurythms.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/mercurythms" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/4fdccb554bf3ea0d9c0f4a6ae73b578f/c6f61dabcf20a01f-5a/s40x40u_c1/11414ccc62c63a680cda1858a27a3ffe8bdfac71.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">streamkai</div>
+            <div class="fol-info-ti">𝐜𝐨𝐝𝐞𝐬 𝐛𝐲 𝐚𝐥𝐥𝐲</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://streamkai.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/streamkai" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/3ead7ba168f7eecee6a87e98f7e5e783/1a3a4b67c1c308e5-28/s40x40u_c1/bf2c057be6e7fcbe38fae8557b2bece41e4ddc3b.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">ihaveresources</div>
+            <div class="fol-info-ti">RESOURCES BLOG</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://ihaveresources.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/ihaveresources" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/avatar_f9e7d7773442_40.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">refercnces</div>
+            <div class="fol-info-ti">resources</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://refercnces.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/refercnces" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/1659a4f20721777a5177fa0673495372/1b1fe4dbae4e87d0-fe/s40x40u_c1/d4b3a8ba4f1c5d407dfb25ab0c3cf1553ae406b3.pnj">
+        <div class="fol-info">
+            <div class="fol-info-un">code-hunters</div>
+            <div class="fol-info-ti">Code Hunters</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://code-hunters.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/code-hunters" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block--><div class="fol-block">
+        <img class="fol-pfp" src="https://64.media.tumblr.com/085d5cdd3ce419a62ad646ffcdde98d9/a0f4b5e4e12e840a-42/s40x40u_c1/2a1f769eaf22dd05f7a5ecc484983b78a9bbebd7.jpg">
+        <div class="fol-info">
+            <div class="fol-info-un">ethereal-themes</div>
+            <div class="fol-info-ti">ethereal themes</div>
+        </div><!--info-->
+        <div class="fol-actions">
+            <a href="https://ethereal-themes.tumblr.com/" title="visit blog"><div class="fol-acticon acticon1"><i class="cp cp-exit-top-right"></i></div></a>
+            <a href="https://tumblr.com/follow/ethereal-themes" title="follow"><div class="fol-acticon acticon2"><i class="cp cp-user"></i></div></a>
+        </div><!--actions-->
+    </div><!--fol-block-->
+</div><!--fol-content-->
+    
+</div><!-- end of following panel -->
+
+
+<div class="view"><!-- contact panel --------------------------------------->
+    
+    <div class="view-photo qna-photo"></div>
+    <div class="qna-content">
+    
+    <!-- QNA SECTION ----------------------------------------------------->
+    <!-- You can add as many QNA blocks as you would like. Basic template:
+    
+    <div class="qna-block">
+        <div class="qna-qn">The question?</div>
+        <div class="qna-ans">The answer.</div>
+    </div>
+    
+    -->
+    
+    <div class="qna-block">
+        <div class="qna-qn">How do I install this page?</div>
+        <div class="qna-ans"><p>Go to my <a href="https://ko-fi.com/s/568753ceb6">ko-fi</a> shop listing, click on <b>Buy Now</b>. This is a free-to-use page, but I appreciate tips as they support me to continue providing themes and pages! You will be sent a Github link with the code.</p>
+            <p>Then, edit your theme. Scroll all the way down and add a new custom layout page. Paste the given code into the empty space.</p>
+            <p>Lastly, make sure you go through the page code and change the default content in the HTML! Instructions are given in the code.</p>
+        </div>
+    </div>
+    
+    <div class="qna-block">
+        <div class="qna-qn">Must I use all four sections?</div>
+        <div class="qna-ans">No, you can remove each section in the code yourself, if for example, you do not want to have the <b>following</b> section. Just ensure you remove:</p>
+            <ul>
+                <li>The navigation button in the header navigation.</li>
+                <li>The section itself.</li>
+            </ul>
+            <p>These areas should be clearly demarcated in the code, but you can also send me an ask if you are unsure.</p>
+        </div>
+    </div>
+    
+    <div class="qna-block">
+        <div class="qna-qn">How do I edit the blogroll?</div>
+        <div class="qna-ans">A blogroll is a list of blogs you follow, and it shows in the [<b>following</b>] tab of this page. You do not need to edit it; it will automatically populate itself.</div>
+    </div>
+    
+    <div class="qna-block">
+        <div class="qna-qn">Why aren't there blogs showing up in my blogroll? It's empty. :(</div>
+        <div class="qna-ans"><p>Possible issues + fixes:</p>
+            <ol>
+            <li><i>You are using the page on a secondary blog</i>. Blogrolls only show up on primary blogs; there's no fix for this.</li>
+            <li><i>You do not share Tumblrs you follow</i>. Go to <a href="https://www.tumblr.com/settings/account">settings</a> and select your primary blog. Toggle "<b>Share Tumblrs you're following</b>" option until it's blue.</li>
+            <li><i>You accidentally edited something in that section.</i> Please reinstall the code and start over, more carefully!</li>
+            </ol>
+        </div>
+    </div>
+    
+    
+    
+    <!-- ASKING GUIDELINES -----------------------------------------------
+         You can delete this entire block if you do not want to have
+         asking guidelines. -->
+    <div class="qna-notice">
+        <div class="qna-notice-title">Asking Guidelines</div>
+        Before you message, please take note of the following:
+        <ul>
+            <li>Please do not actually ask questions below, this page is for demo purposes.</li>
+            <li>Thank you for your interest in this page!</li>
+            <li>Have a nice day uwu
+        </ul>
+    </div><!--end of qna notice-->
+    
+    
+    <!-- [BITTERN] VERY IMPT: Getting the ask box to work!
+         REPLACE =====URL===== BELOW WITH YOUR USERNAME.
+         e.g, I'd replace it with "xuethms" -->
+    <iframe frameborder="0" scrolling="no" width="100%" height="190" src="https://www.tumblr.com/ask_form/xueprevs.tumblr.com" style="background-color:transparent; overflow:hidden;" id="ask_form"></iframe>
+    
+    </div><!--qna-content-->
+    
+</div
